@@ -1,0 +1,5 @@
+docker run --name some-postgres -e POSTGRES_PASSWORD=mysecret -d postgres
+
+docker exec -it container_id bash
+
+psql -U postgres
