@@ -1,0 +1,13 @@
+sudo docker run hello-world
+
+docker images
+
+docker ps
+
+docker ps -a
+
+docker rmi image_id
+
+docker exec -it .....
+
+docker stop image_id
