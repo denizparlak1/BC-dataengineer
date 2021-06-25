@@ -11,3 +11,5 @@ docker rmi image_id
 docker exec -it .....
 
 docker stop image_id
+
+docker pull python
